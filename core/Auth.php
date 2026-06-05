@@ -75,3 +75,4 @@ class Auth {
         return $_SESSION['username'] ?? null;
     }
 }
+?>

@@ -26,3 +26,5 @@ define('PHP_VERSIONS', ['7.4', '8.0', '8.1', '8.2', '8.3']);
 
 define('CSRF_TOKEN_NAME', 'csrf_token');
 define('SESSION_TIMEOUT', 3600);
+
+?>
